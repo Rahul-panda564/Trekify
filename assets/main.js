@@ -22005,7 +22005,7 @@ function g3() {
           children: [
             A.jsx("img", {
               "code-path": "src/App.tsx:125:9",
-              src: "/images/hero-campsite.jpg",
+              src: "./images/hero-campsite.jpg",
               alt: "Campsite by mountain lake",
               className: "w-full h-full object-cover",
             }),
@@ -22250,25 +22250,25 @@ function _3() {
       {
         name: "Trekking",
         price: "₹299",
-        image: "/images/cat-trekking.jpg",
+        image: "./images/cat-trekking.jpg",
         icon: X1,
       },
       {
         name: "Camping",
         price: "₹349",
-        image: "/images/cat-camping.jpg",
+        image: "./images/cat-camping.jpg",
         icon: uS,
       },
       {
         name: "Climbing",
         price: "₹399",
-        image: "/images/cat-climbing.jpg",
+        image: "./images/cat-climbing.jpg",
         icon: X1,
       },
       {
         name: "Water Sports",
         price: "₹449",
-        image: "/images/cat-watersports.jpg",
+        image: "./images/cat-watersports.jpg",
         icon: dS,
       },
     ];
@@ -22449,7 +22449,7 @@ function y3() {
           children: [
             A.jsx("img", {
               "code-path": "src/App.tsx:342:11",
-              src: "/images/featured-kit.jpg",
+              src: "./images/featured-kit.jpg",
               alt: "Weekend Light Kit",
               className: "absolute inset-0 w-full h-full object-cover",
             }),
@@ -22539,37 +22539,37 @@ function v3() {
       {
         name: "2-Person Tent",
         price: 349,
-        image: "/images/value-quality.jpg",
+        image: "./images/value-quality.jpg",
         category: "Tents",
       },
       {
         name: "-5°C Sleeping Bag",
         price: 199,
-        image: "/images/cat-camping.jpg",
+        image: "./images/cat-camping.jpg",
         category: "Sleep",
       },
       {
         name: "Trek Backpack 50L",
         price: 249,
-        image: "/images/cat-trekking.jpg",
+        image: "./images/cat-trekking.jpg",
         category: "Backpacks",
       },
       {
         name: "Camping Stove",
         price: 149,
-        image: "/images/value-flexible.jpg",
+        image: "./images/value-flexible.jpg",
         category: "Cook",
       },
       {
         name: "Headlamp Pro",
         price: 79,
-        image: "/images/dest-nainital.jpg",
+        image: "./images/dest-nainital.jpg",
         category: "Gear",
       },
       {
         name: "Trekking Poles (Pair)",
         price: 99,
-        image: "/images/cat-trekking.jpg",
+        image: "./images/cat-trekking.jpg",
         category: "Gear",
       },
     ],
@@ -22753,62 +22753,62 @@ function x3() {
       {
         name: "Rishikesh, Uttarakhand",
         tagline: "Riverside camps",
-        image: "/images/dest-rishikesh.jpg",
+        image: "./images/dest-rishikesh.jpg",
       },
       {
         name: "Spiti Valley, Himachal",
         tagline: "High-altitude stays",
-        image: "/images/dest-spiti.jpg",
+        image: "./images/dest-spiti.jpg",
       },
       {
         name: "Jaisalmer, Rajasthan",
         tagline: "Desert nights",
-        image: "/images/dest-jaisalmer.jpg",
+        image: "./images/dest-jaisalmer.jpg",
       },
       {
         name: "Munnar, Kerala",
         tagline: "Tea-estate views",
-        image: "/images/dest-munnar.jpg",
+        image: "./images/dest-munnar.jpg",
       },
       {
         name: "Coorg, Karnataka",
         tagline: "Coffee country",
-        image: "/images/dest-coorg.jpg",
+        image: "./images/dest-coorg.jpg",
       },
       {
         name: "Wayanad, Kerala",
         tagline: "Rainforest basecamps",
-        image: "/images/dest-wayanad.jpg",
+        image: "./images/dest-wayanad.jpg",
       },
       {
         name: "Pawna Lake, Maharashtra",
         tagline: "Lake sunsets",
-        image: "/images/dest-pawna.jpg",
+        image: "./images/dest-pawna.jpg",
       },
       {
         name: "Nainital, Uttarakhand",
         tagline: "Pine & lake",
-        image: "/images/dest-nainital.jpg",
+        image: "./images/dest-nainital.jpg",
       },
       {
         name: "Manali, Himachal",
         tagline: "Valley meadows",
-        image: "/images/dest-manali.jpg",
+        image: "./images/dest-manali.jpg",
       },
       {
         name: "Kasol, Himachal",
         tagline: "Riverside chill",
-        image: "/images/dest-kasol.jpg",
+        image: "./images/dest-kasol.jpg",
       },
       {
         name: "Mussoorie, Uttarakhand",
         tagline: "Hilltop views",
-        image: "/images/dest-mussoorie.jpg",
+        image: "./images/dest-mussoorie.jpg",
       },
       {
         name: "Auli, Uttarakhand",
         tagline: "Snow camping",
-        image: "/images/dest-auli.jpg",
+        image: "./images/dest-auli.jpg",
       },
     ];
   return (
@@ -22925,17 +22925,17 @@ function b3() {
       {
         title: "Quality You Can Trust",
         description: "Every item cleaned, inspected, and adventure-ready.",
-        image: "/images/value-quality.jpg",
+        image: "./images/value-quality.jpg",
       },
       {
         title: "Flexible Plans",
         description: "Rent for a day or a season. Extend anytime.",
-        image: "/images/value-flexible.jpg",
+        image: "./images/value-flexible.jpg",
       },
       {
         title: "Sustainable",
         description: "Share gear. Reduce waste. Keep trails cleaner.",
-        image: "/images/value-sustainable.jpg",
+        image: "./images/value-sustainable.jpg",
       },
     ];
   return (
